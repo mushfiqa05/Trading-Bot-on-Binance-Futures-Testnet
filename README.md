@@ -42,8 +42,8 @@ trading_bot/
 
 3. Open the `.env` file and insert Testnet keys:
    ```env
-   BINANCE_API_KEY=testnet_api_key
-   BINANCE_API_SECRET=testnet_api_secret
+   BINANCE_API_KEY=your_testnet_api_key_here
+   BINANCE_API_SECRET=your_testnet_api_secret_here
    ```
 
 ## Usage
